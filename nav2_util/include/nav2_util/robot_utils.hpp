@@ -23,7 +23,7 @@
 #include "geometry_msgs/msg/twist.hpp"
 #include "tf2/time.h"
 #include "tf2_ros/buffer.h"
-#include "tf2_geometry_msgs/tf2_geometry_msgs.hpp"
+#include "tf2_geometry_msgs/tf2_geometry_msgs.h"
 #include "rclcpp/rclcpp.hpp"
 
 namespace nav2_util
